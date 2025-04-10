@@ -4,7 +4,7 @@
 
 [![Preview](readme_preview/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
 
-**A beautiful, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.**
+**A hello, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.**
 
 ---
 
